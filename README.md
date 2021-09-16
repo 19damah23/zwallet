@@ -81,7 +81,7 @@ git clone https://github.com/dwinovic/zwallet
 ```
 2. Go To Folder Repo
 ```sh
-cd zwallet-frontend
+cd zwallet
 ```
 3. Install Module
 ```sh
@@ -97,8 +97,8 @@ npm start
 ```
 
 ### Related Project
-* [`Frontend-Zwallet`](https://github.com/dwinovic/zwallet)
-* [`Backend-Zwallet`](https://github.com/dwinovic/Backend-mWallet)
+* [`Frontend-Zwallet`](https://github.com/19damah23/zwallet)
+* [`Backend-Zwallet`](https://github.com/19damah23/Backend-mWallet)
 
 ## Screenshots
 
@@ -151,8 +151,15 @@ npm start
       </td>
       <td align="center">
         <a href="https://github.com/Nisanisa7">
-          <img width="100" src="https://avatars.githubusercontent.com/u/43512824?v=4" alt="Alfatah Hidayat"><br/>
-          <sub><b>Nisa</b></sub> <br/>
+          <img width="100" src="https://avatars.githubusercontent.com/u/43512824?v=4" alt="Mahuwarni Hyinkhalis Sukerti"><br/>
+          <sub><b>Mahuwarni Hyinkhalis Sukerti</b></sub> <br/>
+          <sub>Front End Developer</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CandaMuammal">
+          <img width="100" src="https://avatars.githubusercontent.com/u/79079927?v=4" alt="Canda Muammal"><br/>
+          <sub><b>Canda Muammal</b></sub> <br/>
           <sub>Front End Developer</sub>
         </a>
       </td>
@@ -161,7 +168,7 @@ npm start
 </center>
 
 ## Contact
-My Email : novidwicahya19@gmail.com
+My Email : muchamadagush@gmail.com
 
-Project Link: [https://github.com/dwinovic/zwallet](https://github.com/dwinovic/zwallet)
+Project Link: [https://github.com/19damah23/zwallet](https://github.com/19damah23/zwallet)
 

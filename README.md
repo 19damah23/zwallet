@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/dwinovic/zwallet">
-    <img src="https://res.cloudinary.com/dnv-images/image/upload/v1631717683/Zwallet/ewallet_1_tzfymc.svg" alt="Logo" width="180" height="180">
+  <a href="https://github.com/19damah23/zwallet">
+    <img src="./screenshots/logo.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">Zwallet: Digital wallet</h3>
@@ -10,14 +10,14 @@
   <p align="center">
     Really helps you to manage your e-money. <br/> Using Zwallet you’ll be allowed to do some transaction with only a few taps on your screen. 
     <br />
-    <a href="https://github.com/dwinovic/zwallet"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/19damah23/zwallet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://zwallet-matrix.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/dwinovic/zwallet">Report Bug</a>
+    <a href="https://github.com/19damah23/zwallet">Report Bug</a>
     ·
-    <a href="https://github.com/dwinovic/zwallet">Request Feature</a>
+    <a href="https://github.com/19damah23/zwallet">Request Feature</a>
   </p>
 </p>
 
@@ -77,7 +77,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone These 2 Repos (Backend and Frontend)
 ```sh
-git clone https://github.com/dwinovic/zwallet
+git clone https://github.com/19damah23/zwallet
 ```
 2. Go To Folder Repo
 ```sh
@@ -103,7 +103,7 @@ npm start
 ## Screenshots
 
 <div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723286/Zwallet/Zwallet-01_nxai3l.png">   
+    <img width="350" src="./screenshots/1631775729085.png">   
     <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-02_ulfakj.png">
 </div>
 <div align="center">
@@ -160,7 +160,7 @@ npm start
         <a href="https://github.com/CandaMuammal">
           <img width="100" src="https://avatars.githubusercontent.com/u/79079927?v=4" alt="Canda Muammal"><br/>
           <sub><b>Canda Muammal</b></sub> <br/>
-          <sub>Front End Developer</sub>
+          <sub>Back End Developer</sub>
         </a>
       </td>
     </tr>

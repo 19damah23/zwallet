@@ -55,7 +55,7 @@
 
 ## About The Project
 
-<b>Zwallet</b> is a digital wallet apps that will really helps you to manage your e-money. Using Zwallet you’ll be allowed to do some transaction with only a few taps on your screen. In other words, with this apps you can easily save money, transfer it to other, and also top up some moneys and add them to your Zwallet’s balance.
+<b>Zwallet</b> is a digital wallet apps that will really helps you to manage your e-money. Using Zwallet you’ll be allowed to do some transaction with only a few taps on your screen. Zwalet features transfers to fellow users, balance topups, profile updates and user searches.
 
 ### Build With
 * [JavaScript](https://www.javascript.com/)
